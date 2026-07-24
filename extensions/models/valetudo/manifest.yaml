@@ -1,0 +1,21 @@
+manifestVersion: 1
+name: "@mgreten/valetudo"
+version: "2026.07.24.1"
+description: "Discover, monitor, and safely control capability-aware Valetudo robot vacuums through their Homie MQTT interface."
+repository: "https://github.com/meagerfindings/swamp-valetudo"
+paths:
+  base: manifest
+models:
+  - valetudo.ts
+additionalFiles:
+  - README.md
+  - LICENSE.txt
+platforms:
+  - darwin-aarch64
+  - linux-x86_64
+  - linux-aarch64
+labels:
+  - valetudo
+  - mqtt
+  - robot-vacuum
+  - home-automation
