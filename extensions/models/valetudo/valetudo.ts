@@ -604,7 +604,7 @@ export async function publishCommand(
 /** Swamp model definition for Valetudo robots connected through MQTT. */
 export const model = {
   type: "@mgreten/valetudo",
-  version: "2026.07.24.1",
+  version: "2026.07.27.1",
   globalArguments: GlobalArgsSchema,
   resources: {
     discovery: {
