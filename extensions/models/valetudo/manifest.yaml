@@ -1,8 +1,9 @@
 manifestVersion: 1
 name: "@mgreten/valetudo"
-version: "2026.07.27.1"
+version: "2026.10.14.1"
 description: "Discover, monitor, and safely control capability-aware Valetudo robot vacuums through their Homie MQTT interface."
 repository: "https://github.com/meagerfindings/swamp-valetudo"
+license: MIT
 paths:
   base: manifest
 models:
